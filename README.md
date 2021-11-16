@@ -1,1 +1,1 @@
-### Simple *meetup app* I've made using React
+### Simple '*meetup app*' I've made using React

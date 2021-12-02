@@ -1,4 +1,4 @@
-import { Route, Switch } from "react-router-dom";
+import { Route, Routes } from "react-router-dom";
 import AllMeetsPage from "./pages/AllMeet";
 import NewMeetPage from "./pages/NewMeet";
 import Favorites from "./pages/Favorites";
@@ -7,19 +7,17 @@ import Layout from "./components/layout/Layout";
 function App() {
   return (
     <Layout>
-      <Switch>
-        <Route exact path="/">
-          <AllMeetsPage />
+      <Routes>
+        <Route  path="/" element={<AllMeetsPage />}>
         </Route>
-        <Route path="/new-meet">
-          <NewMeetPage />
+        <Route path="/new-meet" element={ <NewMeetPage />}>
         </Route>
-        <Route path="/favorites">
-          <Favorites />
+        <Route path="/favorites" element={<Favorites />}> 
         </Route>
-      </Switch>
+      </Routes>
     </Layout>
   );
 }
 
 export default App;
+

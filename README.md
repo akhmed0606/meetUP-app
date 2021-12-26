@@ -26,10 +26,11 @@ This project was developed using the following technologies:
 - [Styled Components](https://styled-components.com/)
 - [React Router](https://reactrouter.com/)
 - [Firebase](https://firebase.google.com/)
+- [Local Storage](https://firebase.google.com/)
 
 
 <br>
 
 ## 🚀 Quick start
 
-- `npm i && npm start`
+- ``npm i && npm start``

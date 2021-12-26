@@ -1,4 +1,4 @@
-## 👇 Check Live Demo
+## 👇 Live Demo
 
 [Meetup App](https://akhmed0606.github.io/meetup-app/)
 

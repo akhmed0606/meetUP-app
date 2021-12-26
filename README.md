@@ -1,13 +1,6 @@
-<div align='center'>
-<h1> MeetApp</h1>
-</div>
+## 👇 Check Live Demo
 
-<br>
-
-
-## 👇 Check the application
-
-[Live](https://akhmed0606.github.io/meetup-app/)
+[Meetup App](https://akhmed0606.github.io/meetup-app/)
 
 ---
 

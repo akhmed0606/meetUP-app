@@ -4,18 +4,6 @@
 
 <br>
 
-<p align="center">
-  <a href="#-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
-  <a href="#-instalation">Instalation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-license">License</a>
-</p>
-
-<p align="center">
- 
-  </a>
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=black&labelColor=f00">
-</p>
 
 ## 👇 Check the application
 

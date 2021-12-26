@@ -2,8 +2,6 @@
 
 [Meetup App](https://akhmed0606.github.io/meetup-app/)
 
----
-
 ## 💡 About
 
 **A simple way to meet people. Add your meetup details that you can share and save to favorites.**

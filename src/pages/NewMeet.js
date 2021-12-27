@@ -1,9 +1,9 @@
 import NewMeetForm from "../components/meetups/NewMeetForm";
-import { useHistory } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 import classes from "../components/ui/Card.module.css";
 
 function NewMeetPage() {
-  const history = useHistory();
+  const navigate = useNavigate();
 
   function addMeetHandler(meetUpData) {
     fetch(
@@ -16,7 +16,7 @@ function NewMeetPage() {
         },
       }
     ).then(() => {
-      history.replace("/");
+      navigate("/", { replace: true });
     });
   }
   return (

@@ -16,11 +16,8 @@ function NewMeetPage() {
         },
       }
     ).then(() => {
-<<<<<<< HEAD
+
       navigate("/", { replace: true });
-=======
-      navigate("/", {replace: true});
->>>>>>> f484b239773f3991e4e15cb0c9acdb488543a3b2
     });
   }
   return (

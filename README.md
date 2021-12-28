@@ -4,7 +4,7 @@
 
 ## 💡 About
 
-**A simple way to meet people. Add your meetup details that you can share and save to favorites.**
+**A dedicated place to create and save meeting details,with an option to share via Facebook.**
 
 <br>
 
@@ -12,7 +12,8 @@
 
 - Create New Meetup 
 - Add meetups to favorite list
-- Remove meetups from  favorites 
+- Remove meetups from  favorites
+- Share via Facebook 
 
 <br>
 

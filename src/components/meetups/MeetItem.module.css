@@ -26,6 +26,13 @@
     font-size: 1.25rem;
     color: #2c292b;
   }
+  .sharing {
+    position: absolute;
+    top:3px;
+    right: 25px;
+    padding: 1.5rem;
+    text-align: center;
+  }
   
   .actions {
     position: absolute;
@@ -35,7 +42,8 @@
     text-align: center;
   }
   
-  .actions button {
+  .actions button,
+  .sharing button {
     font: inherit;
     cursor: pointer;
     border: 1px solid #77002e;
@@ -45,8 +53,10 @@
   }
   
   .actions button:hover,
-  .actions button:active {
-    background-color: #ffe2ed;
+  .actions button:active,
+  .sharing button:hover,
+  .sharing button:active {
+    background-color: rgba(255, 224, 236, 0.938);
   }
   .list {
       list-style: none;

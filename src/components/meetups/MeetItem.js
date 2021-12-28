@@ -1,19 +1,16 @@
 import classes from "./MeetItem.module.css";
 import Card from "../ui/Card";
-import {FacebookShareButton}  from 'react-share';
+import { FacebookShareButton } from "react-share";
 import { useContext } from "react";
 import { FcLike } from "react-icons/fc";
 import { AiOutlineHeart, AiOutlineShareAlt } from "react-icons/ai";
 import FavoriteContext from "../../store/favorite-context";
 
 function MeetupItem(props) {
-
   const shareButtonProps = {
     url: "https://www.facebook.com/",
     network: "Facebook",
-
   };
-
 
   const favoritesCtx = useContext(FavoriteContext);
 
@@ -37,13 +34,11 @@ function MeetupItem(props) {
     <li className={classes.item}>
       <Card>
         <div className={classes.image}>
-
           <div className={classes.sharing}>
             <button className={classes.sharing}>
               <FacebookShareButton {...shareButtonProps}>
-              <AiOutlineShareAlt />
+                <AiOutlineShareAlt />
               </FacebookShareButton>
-            
             </button>
           </div>
 

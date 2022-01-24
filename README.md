@@ -4,7 +4,7 @@
 
 ## 💡 About
 
-**A dedicated place to create and save meeting details,with an option to share via Facebook.**
+**-An interactive web app that allows creating, saving, and sharing meeting details to Facebook -I built it using React and CSS Modules. Used Firebase to post data. Used the latest version of React Router v6 to navigate between pages, and used useContext hook to manage my states globally**
 
 <br>
 

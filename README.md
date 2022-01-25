@@ -29,7 +29,7 @@ This project was developed using the following technologies:
 - [Firebase](https://firebase.google.com/)
 - [Local Storage](https://javascript.info/)
 
-**Why I built the project this way
+**Why I built the project this way**
 
 - Styled components is a great library for styling which I really like, but in this project I used
   CSS Modules, because there are not that much styles applied.

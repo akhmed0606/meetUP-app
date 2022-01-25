@@ -28,6 +28,7 @@ This project was developed using the following technologies:
 - [React Router](https://reactrouter.com/)
 - [Firebase](https://firebase.google.com/)
 - [Local Storage](https://javascript.info/)
+- [React Testing Library] (https://testing-library.com/docs/react-testing-library/intro/)
 
 **Why I built the project this way**
 
@@ -35,6 +36,8 @@ This project was developed using the following technologies:
   CSS Modules, because there are not that much styles applied.
 - My plan is become a full-stack developer eventually. But for beginning I focus on the frontend. That's why
   I decided to use Local Storage Api to save favorite meatups and Firebase to get bit of backend experience also.
+- Testing is essential part of the production application. Testing library is the go-to library in React community.
+  I covered some essential features of the app with tests.
   
 
 <br>
@@ -42,3 +45,7 @@ This project was developed using the following technologies:
 ## 🚀 Quick start
 
 - ``npm i && npm start``
+
+## 🚀 Start Test
+
+- ``npm run test``

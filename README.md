@@ -4,10 +4,12 @@
 
 ## 💡 About
 
-**-An interactive web app that allows creating, saving, and sharing meeting details to Facebook -I built it using React and CSS Modules. Used Firebase to post data. Used the latest version of React Router v6 to navigate between pages, and used useContext hook to manage my states globally**
+*-An interactive web app that allows creating, saving, and sharing meeting details to Facebook -I built it using React and CSS Modules. Used Firebase to post data. Used the latest version of React Router v6 to navigate between pages, and used useContext hook to manage my states globally*
 
 <br>
-
+ 
+  **How I worked on this project 
+ 
 ## 📜 Features
 
 - Create New Meetup 
@@ -27,6 +29,13 @@ This project was developed using the following technologies:
 - [Firebase](https://firebase.google.com/)
 - [Local Storage](https://javascript.info/)
 
+**Why I built the project this way
+
+- Styled components is a great library for styling which I really like, but in this project I used
+  CSS Modules, because there are not that much styles applied.
+- My plan is become a full-stack developer eventually. But for beginning I focus on the frontend. That's why
+  I decided to use Local Storage Api to save favorite meatups and Firebase to get bit of backend experience also.
+  
 
 <br>
 

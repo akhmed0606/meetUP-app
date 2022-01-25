@@ -28,7 +28,7 @@ This project was developed using the following technologies:
 - [React Router](https://reactrouter.com/)
 - [Firebase](https://firebase.google.com/)
 - [Local Storage](https://javascript.info/)
-- [React Testing Library] (https://testing-library.com/docs/react-testing-library/intro/)
+- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 
 **Why I built the project this way**
 

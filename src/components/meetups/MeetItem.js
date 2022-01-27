@@ -35,11 +35,11 @@ function MeetupItem(props) {
       <Card>
         <div className={classes.image}>
           <div className={classes.sharing}>
-            <button className={classes.sharing}>
+            <div className={classes.sharing} role='button'>
               <FacebookShareButton {...shareButtonProps}>
                 <AiOutlineShareAlt />
               </FacebookShareButton>
-            </button>
+            </div>
           </div>
 
           <div className={classes.actions}>

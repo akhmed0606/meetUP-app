@@ -24,7 +24,6 @@
 This project was developed using the following technologies:
 
 - [React](https://create-react-app.dev/)
-- [Styled Components](https://styled-components.com/)
 - [React Router](https://reactrouter.com/)
 - [Firebase](https://firebase.google.com/)
 - [Local Storage](https://javascript.info/)
